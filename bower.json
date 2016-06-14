@@ -5,7 +5,7 @@
   ],
   "description": "",
   "main": "index.html",
-  "license": "GPLv2",
+  "license": "MIT",
   "homepage": "http://www.ralphdreijer.nl/",
   "dependencies": {
     "p5.js": "p5js#^0.5.1"
